@@ -31,7 +31,7 @@ This version has been specifically modified to work with Raspberry Pi OS Bookwor
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/adafruit/pi_video_looper.git
+   git clone [https://github.com/adafruit/pi_video_looper.git](https://github.com/Grakri123/pi5-video-looper.git)
    cd pi_video_looper
    ```
 
